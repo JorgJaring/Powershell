@@ -1,7 +1,7 @@
 ﻿#Name          : PCINFO-Example.ps1
 #Script URI    : 
 #Description   : Gets pc information from this machine
-#Version       : 0.0.1
+#Version       : 0.0.2
 #Author        : Jorg Jaring
 #Author URI    : https://github.com/JorgJaring
 
